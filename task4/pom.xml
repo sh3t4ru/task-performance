@@ -25,7 +25,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>org.example.Task2</mainClass>
+                            <mainClass>org.example.Task4</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
